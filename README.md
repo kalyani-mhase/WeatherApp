@@ -1,2 +1,2 @@
 # WeatherApp
-Integrate Weather API
+Integrate Weather API used MVVM pattern
